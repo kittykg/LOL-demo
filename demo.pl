@@ -1,0 +1,2 @@
+meme(sp).
+funny(sp).
